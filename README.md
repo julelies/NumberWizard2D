@@ -1,2 +1,2 @@
 # NumberWizard2D
-# fixed and pushed by github.com/tguerel!!
+# fixed and pushed
